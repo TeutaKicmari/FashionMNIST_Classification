@@ -1,3 +1,1 @@
 # FashionMNIST_Classification
-
-This 
