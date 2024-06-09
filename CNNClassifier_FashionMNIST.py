@@ -1,20 +1,3 @@
-"""
-CNNClassifier_FashionMNIST.py
-
-Libraries Used:
-- Numpy: Fundamental package for scientific computing with Python.
-- Pandas: Data analysis and manipulation library.
-- Matplotlib: Plotting library for creating static, interactive, and animated visualizations in Python.
-- Seaborn: Data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
-- TensorFlow Keras: High-level neural networks API, written in Python and capable of running on top of TensorFlow. It is used for building and training deep learning models.
-
-Purpose:
-This script implements a Convolutional Neural Network (CNN) to classify images from the Fashion MNIST dataset.
-The model consists of convolutional layers for feature extraction and dense layers for classification.
-It handles data loading, preprocessing, model training, and evaluation, including displaying the confusion matrix
-and classification report.
-"""
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
