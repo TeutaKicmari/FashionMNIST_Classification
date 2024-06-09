@@ -4,11 +4,11 @@ This project focuses on the application of machine learning techniques in the fa
 
 **CNNClassifier_FashionMNIST.py:**
 
- **Libraries Used:** Numpy, Pandas, Matplotlib, Seaborn, TensorFlow Keras
+    **1. Libraries Used:** Numpy, Pandas, Matplotlib, Seaborn, TensorFlow Keras
  
- **Purpose:** Implements a Convolutional Neural Network (CNN) to classify images from the Fashion MNIST dataset. The model consists of convolutional layers
-  for feature extraction and dense layers for classification. The script handles data loading, preprocessing, model training, and evaluation, displaying the
-  confusion matrix and classification report.
+    **2. Purpose:** Implements a Convolutional Neural Network (CNN) to classify images from the Fashion MNIST dataset. The model consists of convolutional
+    layers for feature extraction and dense layers for classification. The script handles data loading, preprocessing, model training, and evaluation, 
+    displaying the confusion matrix and classification report.
 
   
 **MLPClassifier_FashionMNIST.py:**
